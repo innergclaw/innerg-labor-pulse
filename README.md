@@ -1,3 +1,5 @@
+> **Retired.** The live Labor brief is at **https://pulse.innergintel.study/labor/** (repo `innergclaw/innerg-pulse`). This repo is kept for history only. Make changes there, not here.
+
 # INNERG PULSE labor brief
 
 Static GitHub Page for the labor brief: named layoffs, hiring adds, and career boards.
